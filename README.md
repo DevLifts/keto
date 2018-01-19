@@ -1,9 +1,12 @@
 # Ketogenic Diet Info
 
-This repo serves as a resource for all things keto. Create a Pull Request to submit tips, recipes, etc.
+This repo serves as a resource for all things keto.
 
-## Recipes
+## Contents
+* [Recipes](https://github.com/DevLifts/keto/blob/master/recipes/README.md)
+* [Resources](https://github.com/DevLifts/keto/blob/master/resources/README.md)
 
-## Useful Tools
+@TODO: Add an overview explaining what Keto is.
 
-## ???
+## Submitting a Pull Request
+Got something to contribute? Awesome! Create a Pull Request to submit tips, recipes, etc. We don't have any stylistic guidelines (yet), but please contribute well-organized, high-quality content or your PR will be rejected.
