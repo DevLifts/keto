@@ -6,7 +6,7 @@ This repo serves as a resource for all things keto.
 * [Recipes](https://github.com/DevLifts/keto/blob/master/recipes/README.md)
 * [Resources](https://github.com/DevLifts/keto/blob/master/resources/README.md)
 
-## Summary
+## What is Keto
 
 The Ketogenic Diet (Keto Diet for short) consists of depleting your intake of carbohydrates so that your body produces more ketones, which acts as the main source of energy while on the diet.
 
