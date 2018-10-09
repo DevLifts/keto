@@ -4,6 +4,7 @@
 
 - [Nachos](https://github.com/DevLifts/keto/blob/master/recipes/nachos.md)
 - [Bacon and Egg Cups](https://github.com/DevLifts/keto/blob/master/recipes/bacon-and-egg-cups.md)
+- [Cauliflower & Cheese](https://github.com/DevLifts/keto/blob/master/recipes/cauliflower-and-cheese.md)
 
 ## TODOS
 
