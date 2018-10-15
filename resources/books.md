@@ -32,3 +32,17 @@ author: Jeremy Hendon
 author: Chris Kelly
 The book contains 124+ ketogenic diet recipes. All the recipes are complete with nutritional information (including net carb counts). The introduction is about the general science behind the keto diet. The book also contains meal plans and food lists.
 [Amazon](https://www.amazon.com/Essential-Keto-Cookbook-Ketogenic-Including/dp/1941169155)
+
+## The Art and Science of Low Carbohydrate Living: An Expert Guide to Making the Life-Saving Benefits of Carbohydrate Restriction Sustainable and Enjoyable
+
+author: Stephen D. Phinney
+author: Jeff S. Volek
+Provides an incredibly detailed explanation of the science behind the ketogenic diet. A large part of the book may be beyond the understanding of the lay reader but if your doctor is concerned about ketogenic diets, this is the perfect book to give them.
+[Amazon](https://www.amazon.com/Art-Science-Low-Carbohydrate-Living/dp/0983490708)
+
+## The Art and Science of Low Carbohydrate Performance
+
+author: Jeff S. Volek
+author: Stephen D. Phinney
+Provides a detailed look at the science of sports performance for athletes on a ketogenic diet.
+[Amazon](https://www.amazon.com/Art-Science-Low-Carbohydrate-Performance/dp/0983490716)
