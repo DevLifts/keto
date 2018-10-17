@@ -25,6 +25,12 @@ When the Keto Diet is done correctly and safely you can experience numerous bene
 - More consistent energy levels (no crashes)
 - much more...
 
+## Misconceptions About Keto
+
+A common misconception is that a ketogenic diet is high in protein. While the Atkins diet is one that puts you in a state of ketosis and it could be a high protein diet, the common definition of a "well-formulated ketogenic diet" is one that is moderate in protein.
+
+Another common misconception is that nutritional ketosis is similar or the same as diabetic ketoacidosis. Diabetic ketoacidosis (DKA) is a serious health condition that occurs when the ketone levels in your blood get so high that your blood becomes acidic. DKA is most common amongst people who cannot produce enough insulin (for example, Type 1 diabetics) or who are starving themselves. DKA occurs at blood ketone levels much higher than can be achieved using a ketogenic diet. DKA becomes a concern when blood ketone levels are above 5mmol/L, particularly if your blood sugar levels are above 250 mg/dL. Nutritional ketosis generally ranges from .5-3mmol/L
+
 ## Submitting a Pull Request
 
 Got something to contribute? Awesome! Create a Pull Request to submit tips, recipes, etc. We don't have any stylistic guidelines (yet), but please contribute well-organized, high-quality content or your PR will be rejected. Have ideas for how we can best organize this info? Open an issue!
