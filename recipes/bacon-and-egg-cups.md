@@ -1,3 +1,5 @@
+tags: breakfast, budget, meat
+
 Bacon and Egg Cups
 
     1 pack high quality, no sugar added bacon

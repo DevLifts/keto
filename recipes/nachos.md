@@ -1,3 +1,4 @@
+tags: snack, budget, meat
 
 Fat Head Tortilla Chips
 
