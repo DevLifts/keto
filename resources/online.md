@@ -19,3 +19,8 @@ Technical (he's an MD) but accessible articles about ketosis and exercise
 
 Reddit's forum for all things keto related
 [reddit.com/r/keto](https://www.reddit.com/r/keto)
+
+## Ruled.me
+
+Online guide to Keto containing a general guide to the Keto Diet, a list of Ketogenic foods, a Keto Calculator, a 30 day meal plan and more.
+[ruled.me](https://www.ruled.me/)
