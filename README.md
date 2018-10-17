@@ -3,8 +3,9 @@
 This repo serves as a resource for all things keto.
 
 ## Contents
-* [Recipes](https://github.com/DevLifts/keto/blob/master/recipes/README.md)
-* [Resources](https://github.com/DevLifts/keto/blob/master/resources/README.md)
+
+- [Recipes](https://github.com/DevLifts/keto/blob/master/recipes/README.md)
+- [Resources](https://github.com/DevLifts/keto/blob/master/resources/README.md)
 
 ## What is Keto
 
@@ -14,7 +15,10 @@ The goal of the Keto Diet is to get our bodies in a state of ketosis. The main w
 
 Do note that carbs are still necessary for the production of insulin. Also you’ll still need to eat a moderate amount of protein. The typical Keto Diet follows this rule: **Of your total daily caloric intake 70% should come from fat, 25% from protein, and 5% from carbs.**
 
+In grams, on a ketogenic diet you will generally consume 30g or less of carbohydrates per day. The exact quantity of carbohydrates may very somewhat based on your activity level, level of insulin resistance and physiology. Very active people may be able to tolerate as much as 50g per day while more insulin resistant people may need to go as little as 20g.
+
 When the Keto Diet is done correctly and safely you can experience numerous benefits including:
+
 - Weight loss
 - Mental clarity
 - Preventing heart disease
@@ -22,4 +26,5 @@ When the Keto Diet is done correctly and safely you can experience numerous bene
 - much more...
 
 ## Submitting a Pull Request
+
 Got something to contribute? Awesome! Create a Pull Request to submit tips, recipes, etc. We don't have any stylistic guidelines (yet), but please contribute well-organized, high-quality content or your PR will be rejected. Have ideas for how we can best organize this info? Open an issue!
