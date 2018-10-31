@@ -1,5 +1,3 @@
-tags: snack, budget, meat
-
 Fat Head Tortilla Chips
 
     1 3/4 cups pre-shredded/grated mozzarella
@@ -58,3 +56,7 @@ Instructions
 Recipe Notes
 
     Fat Head pastry can also be made by replacing the almond meal/flour with 1/4 cup (4 tbsp) coconut flour.
+
+Tags
+
+![snack](https://img.shields.io/badge/snack-lightsalmon.svg) ![budget](https://img.shields.io/badge/budget-blue.svg) ![meat](https://img.shields.io/badge/meat-red.svg)

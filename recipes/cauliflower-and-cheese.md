@@ -26,3 +26,7 @@ Instructions
 Reference
 
     Recipe: https://www.ruled.me/cauliflower-mac-cheese/
+
+Tags
+
+![cheese](https://img.shields.io/badge/cheese-maroon.svg)

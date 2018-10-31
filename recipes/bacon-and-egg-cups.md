@@ -1,5 +1,3 @@
-tags: breakfast, budget, meat
-
 Bacon and Egg Cups
 
     1 pack high quality, no sugar added bacon
@@ -45,3 +43,7 @@ Instructions
 Recipe Notes
 
     If you are using cheese, I like to add it to my fillings and top the eggs with it. CHEESE!
+
+Tags
+
+![breakfast](https://img.shields.io/badge/breakfast-green.svg) ![budget](https://img.shields.io/badge/budget-blue.svg) ![meat](https://img.shields.io/badge/meat-red.svg)
