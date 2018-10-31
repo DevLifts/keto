@@ -22,4 +22,4 @@ Further information:
 
 Tags
 
-![sweets](https://img.shields.io/badge/sweets-purple.svg) ![sugar-alternative](https://img.shields.io/badge/sugar.alternative-teal.svg) ![sugar-alternative](https://img.shields.io/badge/sweeteners-lightgrey.svg)
+![sweets](https://img.shields.io/badge/sweets-purple.svg) ![sugar-alternative](https://img.shields.io/badge/sugar.alternative-teal.svg) ![sweeteners](https://img.shields.io/badge/sweeteners-lightgrey.svg)
