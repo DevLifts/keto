@@ -1,3 +1,7 @@
+Zucchini Grilled Cheese
+
+![vegetarian](https://img.shields.io/badge/vegetarian-yellowgreen.svg)
+
 Ingredients
 
     2 c. grated zucchini
@@ -25,7 +29,3 @@ Instructions
 Reference
 
     Recipe: https://www.delish.com/cooking/recipe-ideas/recipes/a52458/zucchini-grilled-cheese-recipe/
-
-Tags
-
-![vegetarian](https://img.shields.io/badge/vegetarian-yellowgreen.svg)

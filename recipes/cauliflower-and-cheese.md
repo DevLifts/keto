@@ -1,3 +1,7 @@
+Cauliflower Mac Cheese
+
+![cheese](https://img.shields.io/badge/cheese-maroon.svg)
+
 Ingredients
 
     2 pounds frozen cauliflower florets
@@ -26,7 +30,3 @@ Instructions
 Reference
 
     Recipe: https://www.ruled.me/cauliflower-mac-cheese/
-
-Tags
-
-![cheese](https://img.shields.io/badge/cheese-maroon.svg)
