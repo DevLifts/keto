@@ -1,6 +1,6 @@
-Fat Head Tortilla Chips
-
 ![snack](https://img.shields.io/badge/snack-lightsalmon.svg) ![budget](https://img.shields.io/badge/budget-blue.svg) ![meat](https://img.shields.io/badge/meat-red.svg)
+
+Fat Head Tortilla Chips
 
     1 3/4 cups pre-shredded/grated mozzarella
     3/4 cup almond meal/flour

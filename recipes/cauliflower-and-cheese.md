@@ -1,5 +1,3 @@
-Cauliflower Mac Cheese
-
 ![cheese](https://img.shields.io/badge/cheese-maroon.svg)
 
 Ingredients

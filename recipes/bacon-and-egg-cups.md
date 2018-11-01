@@ -1,6 +1,6 @@
-Bacon and Egg Cups
-
 ![breakfast](https://img.shields.io/badge/breakfast-green.svg) ![budget](https://img.shields.io/badge/budget-blue.svg) ![meat](https://img.shields.io/badge/meat-red.svg)
+
+Bacon and Egg Cups
 
     1 pack high quality, no sugar added bacon
     salted butter

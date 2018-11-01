@@ -1,5 +1,3 @@
-Sugar Alternatives
-
 ![sweets](https://img.shields.io/badge/sweets-purple.svg) ![sugar-alternative](https://img.shields.io/badge/sugar.alternative-teal.svg) ![sweeteners](https://img.shields.io/badge/sweeteners-lightgrey.svg)
 
 Hidden carbs
