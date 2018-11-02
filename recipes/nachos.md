@@ -1,4 +1,4 @@
-tags: snack, budget, meat
+![snack](https://img.shields.io/badge/snack-lightsalmon.svg) ![budget](https://img.shields.io/badge/budget-blue.svg) ![meat](https://img.shields.io/badge/meat-red.svg)
 
 Fat Head Tortilla Chips
 

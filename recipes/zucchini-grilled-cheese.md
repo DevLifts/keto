@@ -1,4 +1,4 @@
-tags: vegetarian
+![vegetarian](https://img.shields.io/badge/vegetarian-yellowgreen.svg)
 
 Ingredients
 

@@ -1,3 +1,5 @@
+![cheese](https://img.shields.io/badge/cheese-maroon.svg)
+
 Ingredients
 
     2 pounds frozen cauliflower florets

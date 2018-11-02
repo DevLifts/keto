@@ -1,4 +1,4 @@
-tags: breakfast, budget, meat
+![breakfast](https://img.shields.io/badge/breakfast-green.svg) ![budget](https://img.shields.io/badge/budget-blue.svg) ![meat](https://img.shields.io/badge/meat-red.svg)
 
 Bacon and Egg Cups
 
