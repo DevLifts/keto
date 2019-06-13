@@ -4,8 +4,8 @@ This repo serves as a resource for all things keto.
 
 ## Contents
 
-- [Recipes](https://github.com/DevLifts/keto/blob/master/recipes/README.md)
-- [Resources](https://github.com/DevLifts/keto/blob/master/resources/README.md)
+- [Recipes](recipes/README.md)
+- [Resources](resources/README.md)
 
 ## What is Keto
 
